@@ -1,0 +1,48 @@
+  -------------Loop---------------
+  1.for Loop
+  2.foreach Loop
+  3.while Loop
+  4.do while Loop
+
+
+  --------------for loop------------------
+
+  for(intilization; range/condition; increment/decrement){
+    //statement
+  }
+
+  1 = Hello world = 6
+  2 = Hello world = 7
+  3 = Hello world = 8
+  4 = Hello world = 9
+  5 = Hello world = 10
+--------------------------------------------
+***. Write 5time Hello world Using "for loop"
+  for(i=0; i<=5; i++){
+    console.log("Hello World");
+  }
+
+  ---------- Using Array + Loop ------------
+  let number = [5, 8, 12, 21, 9, 6, 11, 17, 18, 19, 48, 34,];
+  console.log([6])
+
+
+  ---------------Array lenth ber korte------------
+  veriable = Arrayveriable.lenth
+
+  ***. Using condition, Array, loop and show even or odd.
+  for(i=0; i<element; i++){
+    if(number[i]%2==0){
+      console.log(even)
+    }
+    else{
+      console.log(odd)
+    }
+  }
+
+  -----------Home Work--------------
+  let marks = [90, 56, 78, 95, 78, 60, 78, 13, 65, 
+  12, 56, 43, 56, 9, 67, 54, 78, 32 ]
+
+  1.Extract pass and fail from array marks using for loop?
+  2.Extract grading point from array marks using for loop?
